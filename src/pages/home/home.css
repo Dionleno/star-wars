@@ -1,0 +1,19 @@
+.box {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: auto;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.box a {
+  color: #ffffff;
+  padding: 20px;
+}
+.box p {
+  margin: 0;
+  font-size: 18px;
+}
