@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card, CardContent } from "@material-ui/core";
+import { Card, CardContent, Button, Grid } from "@material-ui/core";
 import "./panel.css";
 class Panel extends Component {
   constructor(props) {
